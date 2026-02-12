@@ -1,2 +1,6 @@
-echo "Hello, how are you?"
-echo "I'm fine and you?"
+#!/bin/bash
+#Starting a project with bash and git
+
+USER="Blind"
+
+echo $USER
